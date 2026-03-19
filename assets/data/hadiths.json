@@ -1,0 +1,44 @@
+[
+  {
+    "id": "hadith_1",
+    "book": "Nahjul Balagha",
+    "type": "saying",
+    "number": "Saying 146",
+    "imam": "Imam Ali",
+    "arabic": "النَّاسُ أَعْدَاءُ مَا جَهِلُوا.",
+    "english": "People are enemies of what they do not know.",
+    "urdu": "لوگ اس چیز کے دشمن ہوتے ہیں جسے وہ نہیں جانتے۔",
+    "farsi": "مردم دشمن آن چیزی هستند که نمی دانند.",
+    "bengali": "মানুষ যা জানে না তার শত্রু।",
+    "topic": "knowledge",
+    "authenticity": "sahih"
+  },
+  {
+    "id": "hadith_2",
+    "book": "Nahjul Balagha",
+    "type": "saying",
+    "number": "Saying 12",
+    "imam": "Imam Ali",
+    "arabic": "أَعْجَزُ النَّاسِ مَنْ عَجَزَ عَنِ اكْتِسَابِ الْإِحْوَانِ، وَأَعْجَزُ مِنْهُ مَنْ ضَيَّعَ مَنْ ظَفِرَ بِهِ مِنْهُمْ.",
+    "english": "The most helpless of all men is he who cannot find a few brothers during his life, but still more helpless is he who finds such a brother but loses him.",
+    "urdu": "سب سے زیادہ بے بس انسان وہ ہے جو دوست بنانے سے قاصر ہو، اور اس سے بھی زیادہ بے بس وہ ہے جو دوست پا کر اسے کھو دے۔",
+    "farsi": "ناتوان ترین مردم کسی است که از یافتن دوست ناتوان باشد، و ناتوان تر از او کسی است که دوستی را پیدا کند اما او را از دست بدهد.",
+    "bengali": "সবচেয়ে অসহায় সেই ব্যক্তি যে জীবনে কয়েকজন বন্ধুও তৈরি করতে পারে না, আর তার চেয়েও অসহায় সে যে এমন বন্ধু পেয়েও তাকে হারায়।",
+    "topic": "ethics",
+    "authenticity": "sahih"
+  },
+  {
+    "id": "hadith_3",
+    "book": "Al-Kafi",
+    "type": "hadith",
+    "number": "Vol 1, H 34",
+    "imam": "Imam Sadiq",
+    "arabic": "الْعُلَمَاءُ وَرَثَةُ الْأَنْبِيَاءِ.",
+    "english": "The scholars are the inheritors of the prophets.",
+    "urdu": "علماء انبیاء کے وارث ہیں۔",
+    "farsi": "عالمان وارثان پیامبران هستند.",
+    "bengali": "বিদ্বানরা নবীদের উত্তরাধিকারী।",
+    "topic": "knowledge",
+    "authenticity": "sahih"
+  }
+]

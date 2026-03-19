@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name_arabic": "محمد بن عبد الله",
+    "name_en": "Prophet Muhammad (s)",
+    "title_en": "Khatam al-Anbiya",
+    "born_hijri": "17 Rabi al-Awwal 53 BH",
+    "shahadat_hijri": "28 Safar 11 AH",
+    "age": 63,
+    "father": "Abdullah ibn Abd al-Muttalib",
+    "mother": "Aminah bint Wahb",
+    "birthplace": "Mecca, Hejaz",
+    "shrine": "Medina, Saudi Arabia",
+    "biography_en": "The final messenger of God and the seal of prophets. He brought the Quran and established the religion of Islam.",
+    "biography_ur": "خدا کے آخری رسول۔ آپ قرآن لائے اور اسلام قائم کیا۔",
+    "biography_bn": "আল্লাহর শেষ রাসূল। তিনি কুরআন এনেছেন এবং ইসলাম ধর্ম প্রতিষ্ঠা করেছেন।",
+    "famous_sayings": [
+      "I am the city of knowledge and Ali is its gate.",
+      "Hussein is from me and I am from Hussein."
+    ],
+    "ziyarat_id": "ziyarat_prophet"
+  },
+  {
+    "id": 2,
+    "name_arabic": "فاطمة بنت محمد",
+    "name_en": "Hazrat Fatima al-Zahra (sa)",
+    "title_en": "Sayyidat Nisa al-Alamin",
+    "born_hijri": "20 Jumada al-Thani",
+    "shahadat_hijri": "3 Jumada al-Thani 11 AH",
+    "age": 18,
+    "father": "Prophet Muhammad (s)",
+    "mother": "Khadija bint Khuwaylid",
+    "birthplace": "Mecca, Hejaz",
+    "shrine": "Unknown (Medina)",
+    "biography_en": "The beloved daughter of the Prophet and wife of Imam Ali. The mother of the Imams.",
+    "biography_ur": "رسول اللہ کی پیاری بیٹی اور امام علی کی زوجہ۔ ائمہ کی والدہ۔",
+    "biography_bn": "রাসূলের প্রিয় কন্যা এবং ইমাম আলীর স্ত্রী। ইমামদের মাতা।",
+    "famous_sayings": [
+      "God made obedience to us (Ahlulbayt) the security of the ummah from disunity."
+    ],
+    "ziyarat_id": "ziyarat_fatima"
+  },
+  {
+    "id": 3,
+    "name_arabic": "علي بن أبي طالب",
+    "name_en": "Imam Ali ibn Abi Talib",
+    "title_en": "Amir al-Mu'minin",
+    "born_hijri": "13 Rajab 23 BH",
+    "shahadat_hijri": "21 Ramadan 40 AH",
+    "age": 63,
+    "father": "Abu Talib",
+    "mother": "Fatima bint Asad",
+    "birthplace": "Inside the Kaaba, Mecca",
+    "shrine": "Najaf, Iraq",
+    "biography_en": "The first Imam of Shia Islam, born inside the Kaaba, companion and cousin of the Prophet.",
+    "biography_ur": "پہلے امام، کعبہ میں پیدا ہوئے، رسول کے صحابی اور کزن۔",
+    "biography_bn": "শিয়া ইসলামের প্রথম ইমাম, কাবায় জন্মগ্রহণ করেন, রাসূলের সাহাবী ও চাচাতো ভাই।",
+    "famous_sayings": [
+      "People are enemies of what they do not know.",
+      "A man's worth is according to his courage."
+    ],
+    "ziyarat_id": "ziyarat_amin_allah"
+  },
+  {
+    "id": 4,
+    "name_arabic": "الحسن بن علي",
+    "name_en": "Imam Hasan ibn Ali",
+    "title_en": "Al-Mujtaba",
+    "born_hijri": "15 Ramadan 3 AH",
+    "shahadat_hijri": "28 Safar 50 AH",
+    "age": 47,
+    "father": "Imam Ali (as)",
+    "mother": "Fatima al-Zahra (sa)",
+    "birthplace": "Medina, Hejaz",
+    "shrine": "Jannat al-Baqi, Medina",
+    "biography_en": "The second Imam, known for his peace treaty which saved the Muslim ummah from destruction.",
+    "biography_ur": "دوسرے امام، اپنے صلح نامے سے امت کو بچایا۔",
+    "biography_bn": "দ্বিতীয় ইমাম, তার শান্তি চুক্তির জন্য পরিচিত।",
+    "famous_sayings": [
+      "The greatest wealth is wisdom, and the greatest poverty is ignorance."
+    ],
+    "ziyarat_id": "ziyarat_baqi"
+  },
+  {
+    "id": 5,
+    "name_arabic": "الحسين بن علي",
+    "name_en": "Imam Hussain ibn Ali",
+    "title_en": "Sayyid al-Shuhada",
+    "born_hijri": "3 Shaban 4 AH",
+    "shahadat_hijri": "10 Muharram 61 AH",
+    "age": 57,
+    "father": "Imam Ali (as)",
+    "mother": "Fatima al-Zahra (sa)",
+    "birthplace": "Medina, Hejaz",
+    "shrine": "Karbala, Iraq",
+    "biography_en": "The third Imam, martyred courageously in the tragedy of Karbala to save Islam.",
+    "biography_ur": "تیسرے امام، کربلا میں شہید ہوئے۔",
+    "biography_bn": "তৃতীয় ইমাম, কারবালার ট্র্যাজেডিতে শহীদ হন।",
+    "famous_sayings": [
+      "Death with dignity is better than a life of humiliation."
+    ],
+    "ziyarat_id": "ziyarat_ashura"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "book_mafatih",
+    "title_en": "Mafatih al-Jinan",
+    "title_ar": "مفاتيح الجنان",
+    "author": "Sheikh Abbas Qumi",
+    "category": "Duas & Prayers",
+    "description_en": "The most widely used compilation of standard Shia prayers, supplications and ziyarat.",
+    "description_bn": "শিয়া প্রার্থনা, মোনাজাত এবং যিয়ারত এর সবচেয়ে বহুল ব্যবহৃত সংকলন।",
+    "language_available": ["en", "ur", "fa", "ar"],
+    "source_url": "https://www.al-islam.org/mafatih-al-jinan",
+    "is_offline": false
+  },
+  {
+    "id": "book_nahjul_balagha",
+    "title_en": "Nahj al-Balagha",
+    "title_ar": "نهج البلاغة",
+    "author": "Sharif al-Radi (Compiler) / Imam Ali (as)",
+    "category": "Hadith",
+    "description_en": "The Peak of Eloquence - Sermons, letters, and sayings of Imam Ali ibn Abi Talib (a.s).",
+    "description_bn": "ইমাম আলী ইবনে আবী তালিব (আঃ) এর খুতবা, চিঠি এবং বাণী।",
+    "language_available": ["en", "ur", "fa", "ar"],
+    "source_url": "https://www.al-islam.org/nahjul-balagha-part-1-sermons",
+    "is_offline": false
+  },
+  {
+    "id": "book_sahifa_sajjadiyya",
+    "title_en": "Sahifa al-Sajjadiyya",
+    "title_ar": "الصحيفة السجادية",
+    "author": "Imam Ali Zayn al-Abidin (as)",
+    "category": "Duas & Prayers",
+    "description_en": "The Psalms of Islam - 54 supplications by the Fourth Imam.",
+    "description_bn": "চতুর্থ ইমামের ৫৪ টি মোনাজাত।",
+    "language_available": ["en", "ur", "fa", "ar"],
+    "source_url": "https://www.al-islam.org/sahifa-al-kamilah-al-sajjadiyya-imam-ali-zayn-al-abidin",
+    "is_offline": false
+  },
+  {
+    "id": "book_alkaafi",
+    "title_en": "Al-Kafi (Selections)",
+    "title_ar": "الكافي",
+    "author": "Sheikh Kulayni",
+    "category": "Hadith",
+    "description_en": "One of the Four Books of Shia Hadith.",
+    "description_bn": "শিয়া হাদিসের চারটি বইয়ের একটি।",
+    "language_available": ["en", "ar"],
+    "source_url": "https://www.al-islam.org/al-kafi-volume-1-muhammad-yaqub-al-kulayni",
+    "is_offline": false
+  },
+  {
+    "id": "book_islamic_laws_sistani",
+    "title_en": "Islamic Laws",
+    "title_ar": "توضيح المسائل",
+    "author": "Ayatullah Ali Sistani",
+    "category": "Fiqh",
+    "description_en": "Tawdih al-Masa'il - comprehensive guide on Islamic jurisprudence.",
+    "description_bn": "ইসলামী ফিকহের ব্যাপক নির্দেশিকা।",
+    "language_available": ["en", "ur", "fa", "ar", "bn"],
+    "source_url": "https://www.sistani.org/english/book/48/",
+    "is_offline": false
+  }
+]

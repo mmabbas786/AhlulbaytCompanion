@@ -1,0 +1,49 @@
+[
+  {
+    "id": "amaal_ashura",
+    "name_en": "Amaal of Ashura (10th Muharram)",
+    "name_ur": "عاشورہ (10 محرم) کے اعمال",
+    "name_fa": "اعمال عاشورا (دهم محرم)",
+    "name_ar": "أعمال يوم عاشوراء",
+    "name_bn": "আশুরার আমল (১০ই মুহাররম)",
+    "category": "muharram",
+    "occasion": "Day 10 Muharram",
+    "actions": [
+      "Recite Ziyarat Ashura with 100 curses and 100 salutations.",
+      "Mourn and weep for the tragedy of Karbala.",
+      "Do not engage in worldly work and business.",
+      "Fast until the afternoon (Faqa/Imsak) and end it without a full meal, as the Ahlulbayt were parched and hungry."
+    ]
+  },
+  {
+    "id": "amaal_arbaeen",
+    "name_en": "Amaal of Arbaeen (20th Safar)",
+    "name_ur": "اربعین (20 صفر) کے اعمال",
+    "name_fa": "اعمال اربعین (بیستم صفر)",
+    "name_ar": "أعمال يوم الأربعين",
+    "name_bn": "আরবাইন এর আমল (২০ শে সফর)",
+    "category": "safar",
+    "occasion": "Day 20 Safar",
+    "actions": [
+      "Recite Ziyarat Arbaeen.",
+      "Participate in the Arbaeen walk or commemorate the journey of the captives of Karbala."
+    ]
+  },
+  {
+    "id": "amaal_qadr_19",
+    "name_en": "Amaal of Laylat al-Qadr (19th Ramadan)",
+    "name_ur": "شب قدر (19 رمضان) کے اعمال",
+    "name_fa": "اعمال شب قدر (نوزدهم رمضان)",
+    "name_ar": "أعمال ليلة القدر (١٩ شهر رمضان)",
+    "name_bn": "লাইলাতুল কদরের আমল (১৯ শে রমজান)",
+    "category": "ramadan",
+    "occasion": "Night 19 Ramadan",
+    "actions": [
+      "Perform Ghusl before sunset.",
+      "Keep awake the whole night in prayer and supplication.",
+      "Recite 100 times Istighfar.",
+      "Place the Holy Quran on the head and recite the specific dua.",
+      "Recite Dua Jawshan al-Kabir."
+    ]
+  }
+]

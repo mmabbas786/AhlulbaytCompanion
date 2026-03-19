@@ -1,0 +1,112 @@
+Analyzing AhlulbaytCompanion...                                 
+
+   info • Don't invoke 'print' in production code • lib/core/services/notification_service.dart:23:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/core/services/notification_service.dart:25:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/core/services/notification_service.dart:27:7 • avoid_print
+   info • Don't invoke 'print' in production code • lib/core/services/notification_service.dart:32:9 • avoid_print
+warning • The value of the local variable 'position' isn't used • lib/core/services/prayer_service.dart:15:16 • unused_local_variable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/theme/glass_components.dart:98:40 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/theme/glass_components.dart:103:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/theme/glass_components.dart:157:56 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/core/theme/glass_components.dart:167:52 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/amaals/amaals_screen.dart:70:58 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/books/books_screen.dart:194:59 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/books/books_screen.dart:232:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/books/books_screen.dart:233:16 • prefer_const_constructors
+warning • The value of the field '_today' isn't used • lib/features/calendar/calendar_screen.dart:14:9 • unused_field
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:72:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:74:22 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/calendar/calendar_screen.dart:76:27 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:77:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:99:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:116:13 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:117:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:119:24 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:121:26 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/calendar/calendar_screen.dart:122:31 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:124:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:138:23 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:139:32 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:140:34 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/calendar/calendar_screen.dart:142:36 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/calendar/calendar_screen.dart:195:47 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/chat/chat_screen.dart:116:55 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/chat/chat_screen.dart:130:34 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/duas/duas_list_screen.dart:81:54 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/hadith/hadith_screen.dart:82:31 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/hadith/hadith_screen.dart:120:64 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/hadith/hadith_screen.dart:157:31 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/hadith/hadith_screen.dart:164:53 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/home/home_screen.dart:31:19 • prefer_const_literals_to_create_immutables
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/home_screen.dart:60:45 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/home_screen.dart:179:67 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/widgets/occasion_card.dart:17:35 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/widgets/occasion_card.dart:49:41 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/home/widgets/prayer_countdown_card.dart:28:48 • deprecated_member_use
+  error • Target of URI doesn't exist: '../../features/qibla/qibla_screen.dart' • lib/features/home/widgets/quick_access_grid.dart:5:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../features/tasbih/tasbih_screen.dart' • lib/features/home/widgets/quick_access_grid.dart:6:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../features/quiz/quiz_screen.dart' • lib/features/home/widgets/quick_access_grid.dart:7:8 • uri_does_not_exist
+  error • Target of URI doesn't exist: '../../features/chat/chat_screen.dart' • lib/features/home/widgets/quick_access_grid.dart:8:8 • uri_does_not_exist
+  error • The name 'QiblaScreen' isn't a class • lib/features/home/widgets/quick_access_grid.dart:34:83 • creation_with_non_type
+  error • The name 'TasbihScreen' isn't a class • lib/features/home/widgets/quick_access_grid.dart:44:83 • creation_with_non_type
+  error • The name 'QuizScreen' isn't a class • lib/features/home/widgets/quick_access_grid.dart:58:83 • creation_with_non_type
+  error • The name 'ChatScreen' isn't a class • lib/features/home/widgets/quick_access_grid.dart:69:83 • creation_with_non_type
+warning • The value of the field '_sahmImam' isn't used • lib/features/khums/khums_screen.dart:19:10 • unused_field
+warning • The value of the field '_sahmSadat' isn't used • lib/features/khums/khums_screen.dart:20:10 • unused_field
+   info • Use 'const' with the constructor to improve performance • lib/features/khums/khums_screen.dart:117:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/khums/khums_screen.dart:127:29 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/khums/khums_screen.dart:128:41 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/khums/khums_screen.dart:130:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/khums/khums_screen.dart:134:29 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/khums/khums_screen.dart:135:41 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/khums/khums_screen.dart:137:33 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/masoomeen/masoomeen_screen.dart:144:30 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/masoomeen/masoomeen_screen.dart:145:32 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/onboarding/language_location_page.dart:107:54 • deprecated_member_use
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/prayer/prayer_screen.dart:91:27 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:92:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:93:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:94:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:95:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:96:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:97:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:98:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/prayer/prayer_screen.dart:99:19 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/qibla/qibla_screen.dart:41:22 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/qibla/qibla_screen.dart:41:36 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/qibla/qibla_screen.dart:110:15 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:102:71 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:112:52 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/quiz/quiz_screen.dart:132:15 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/quiz/quiz_screen.dart:134:24 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:159:44 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:162:42 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:166:51 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:232:43 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:235:57 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/quiz/quiz_screen.dart:235:87 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/quran/quran_screen.dart:90:31 • prefer_const_constructors
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/reader/dua_reader_screen.dart:108:39 • deprecated_member_use
+   info • Use 'const' with the constructor to improve performance • lib/features/reader/dua_reader_screen.dart:110:27 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/reader/dua_reader_screen.dart:110:39 • prefer_const_constructors
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:83:23 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:85:23 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:92:23 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:94:23 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:101:23 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:103:23 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:135:23 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:137:23 • deprecated_member_use
+   info • 'groupValue' is deprecated and shouldn't be used. Use a RadioGroup ancestor to manage group value instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:144:23 • deprecated_member_use
+   info • 'onChanged' is deprecated and shouldn't be used. Use RadioGroup to handle value change instead. This feature was deprecated after v3.32.0-0.0.pre • lib/features/settings/settings_screen.dart:146:23 • deprecated_member_use
+warning • The value of the field '_totalCount' isn't used • lib/features/tasbih/tasbih_screen.dart:16:7 • unused_field
+   info • Use 'const' with the constructor to improve performance • lib/features/tasbih/tasbih_screen.dart:110:17 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/tasbih/tasbih_screen.dart:111:26 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/tasbih/tasbih_screen.dart:113:28 • prefer_const_constructors
+   info • Use 'const' literals as arguments to constructors of '@immutable' classes • lib/features/tasbih/tasbih_screen.dart:115:33 • prefer_const_literals_to_create_immutables
+   info • Use 'const' with the constructor to improve performance • lib/features/tasbih/tasbih_screen.dart:116:25 • prefer_const_constructors
+   info • Use 'const' with the constructor to improve performance • lib/features/tasbih/tasbih_screen.dart:150:17 • prefer_const_constructors
+   info • Don't invoke 'print' in production code • lib/main.dart:19:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/main.dart:29:5 • avoid_print
+   info • Don't invoke 'print' in production code • lib/main.dart:39:5 • avoid_print
+

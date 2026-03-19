@@ -1,0 +1,68 @@
+[
+  {
+    "month_hijri": 1,
+    "day_hijri": 1,
+    "name_en": "Islamic New Year",
+    "name_ur": "اسلامی نیا سال",
+    "name_fa": "سال نو اسلامی",
+    "name_ar": "رأس السنة الهجرية",
+    "name_bn": "হিজরি নববর্ষ",
+    "type": "observance",
+    "importance": "low"
+  },
+  {
+    "month_hijri": 1,
+    "day_hijri": 10,
+    "name_en": "Ashura (Martyrdom of Imam Hussain)",
+    "name_ur": "عاشورہ (شہادت امام حسین)",
+    "name_fa": "عاشورا (شهادت امام حسین)",
+    "name_ar": "عاشوراء (استشهاد الإمام الحسين)",
+    "name_bn": "আশুরা (ইমাম হোসেনের শাহাদাত)",
+    "type": "shahadat",
+    "importance": "high"
+  },
+  {
+    "month_hijri": 2,
+    "day_hijri": 20,
+    "name_en": "Arbaeen (Chehlum of Imam Hussain)",
+    "name_ur": "چہلم امام حسین",
+    "name_fa": "اربعین",
+    "name_ar": "الأربعين المليونية",
+    "name_bn": "ইমাম হোসাইনের চেহলাম (আরবাইন)",
+    "type": "azadari",
+    "importance": "high"
+  },
+  {
+    "month_hijri": 7,
+    "day_hijri": 13,
+    "name_en": "Birth of Imam Ali (as)",
+    "name_ur": "ولادت امام علی (ع)",
+    "name_fa": "ولادت امام علی (ع)",
+    "name_ar": "ولادة الإمام علي (ع)",
+    "name_bn": "ইমাম আলীর (আ:) জন্ম",
+    "type": "wiladat",
+    "importance": "high"
+  },
+  {
+    "month_hijri": 9,
+    "day_hijri": 21,
+    "name_en": "Martyrdom of Imam Ali (as)",
+    "name_ur": "شہادت امام علی (ع)",
+    "name_fa": "شهادت امام علی (ع)",
+    "name_ar": "استشهاد الإمام علي (ع)",
+    "name_bn": "ইমাম আলীর (আ:) শাহাদাত",
+    "type": "shahadat",
+    "importance": "high"
+  },
+  {
+    "month_hijri": 12,
+    "day_hijri": 18,
+    "name_en": "Eid al-Ghadir",
+    "name_ur": "عید غدیر",
+    "name_fa": "عید غدیر",
+    "name_ar": "عيد الغدير",
+    "name_bn": "ঈদে গাদীর",
+    "type": "wiladat",
+    "importance": "high"
+  }
+]

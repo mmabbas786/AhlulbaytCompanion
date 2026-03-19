@@ -66,5 +66,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<!-- Google AdMob App ID (test ID — replace with real ID before publishing) -->
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-4028277459474590~1244590714</string>
+	<!-- Location usage for prayer times -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ahlulbayt Companion uses your location to calculate accurate prayer times and Qibla direction.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ahlulbayt Companion uses your location to calculate accurate prayer times and Qibla direction.</string>
 </dict>
 </plist>
