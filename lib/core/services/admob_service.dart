@@ -1,5 +1,6 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
+import 'package:flutter/foundation.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../constants/ad_ids.dart';
 
@@ -13,6 +14,7 @@ class AdMobService {
   DateTime? _lastInterstitialTime;
 
   Future<void> initialize() async {
+    if (kIsWeb) return;
     await MobileAds.instance.initialize();
     loadInterstitial();
     loadRewarded();
@@ -20,6 +22,8 @@ class AdMobService {
 
   // --- Banner ---
   Widget getBannerWidget(String adUnitId) {
+    if (kIsWeb) return const SizedBox.shrink();
+    
     final bannerAd = BannerAd(
       adUnitId: adUnitId,
       size: AdSize.banner,
@@ -40,11 +44,13 @@ class AdMobService {
   }
 
   Widget getHomeBanner() {
+    if (kIsWeb) return const SizedBox.shrink();
     return getBannerWidget(Platform.isAndroid ? AdIds.bannerAndroid : AdIds.bannerIOS);
   }
 
   // --- Interstitial ---
   void loadInterstitial() {
+    if (kIsWeb) return;
     String adUnitId = Platform.isAndroid ? AdIds.interstitialAndroid : AdIds.interstitialIOS;
     InterstitialAd.load(
       adUnitId: adUnitId,
@@ -62,6 +68,7 @@ class AdMobService {
   }
 
   void showInterstitialIfReady() {
+    if (kIsWeb) return;
     // 3 minute cooldown
     if (_lastInterstitialTime != null) {
       final difference = DateTime.now().difference(_lastInterstitialTime!);
@@ -78,6 +85,7 @@ class AdMobService {
 
   // --- Rewarded ---
   void loadRewarded() {
+    if (kIsWeb) return;
     String adUnitId = Platform.isAndroid ? AdIds.rewardedAndroid : AdIds.rewardedIOS;
     RewardedAd.load(
       adUnitId: adUnitId,
@@ -94,6 +102,11 @@ class AdMobService {
   }
 
   void showRewarded({required Function onReward}) {
+    if (kIsWeb) {
+      onReward();
+      return;
+    }
+    
     if (_rewardedAd != null) {
       _rewardedAd!.show(onUserEarnedReward: (ad, reward) {
         onReward();

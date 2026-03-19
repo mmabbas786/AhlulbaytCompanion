@@ -1,6 +1,7 @@
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
+import 'package:flutter/foundation.dart';
 
 class StorageService {
   static final StorageService _instance = StorageService._internal();
@@ -16,6 +17,7 @@ class StorageService {
   }
 
   Future<void> _initDb() async {
+    if (kIsWeb) return;
     final dbPath = await getDatabasesPath();
     final path = join(dbPath, 'ahlulbayt_companion.db');
 
@@ -62,6 +64,7 @@ class StorageService {
 
   // Database Methods
   Database get database {
+    if (kIsWeb) throw Exception("Database not supported on Web");
     if (_database == null) throw Exception("Database not initialized");
     return _database!;
   }
