@@ -1,4 +1,3 @@
-# AhlulbaytCompanion
 # Ahlulbayt Companion — Project Context
 
 ## App
